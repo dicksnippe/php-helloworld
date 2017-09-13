@@ -1,2 +1,2 @@
 # php-helloworld
-PHP Hello World example
+Prachtige PHP Hello World example
